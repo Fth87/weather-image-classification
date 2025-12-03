@@ -1,4 +1,4 @@
-saved_model
-tfjs_model
-tflite
+saved_model/
+tfjs_model/
+tflite/
 model.keras
